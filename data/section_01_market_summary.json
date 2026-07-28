@@ -1,0 +1,19 @@
+{
+  "design_parameters": {
+    "it_load_mw": 15.0,
+    "pue_with_cchp": 1.18,
+    "pue_without_cchp": 1.4,
+    "installed_capacity_mw": 18.0,
+    "target_tier": "Tier III (99.982% availability)"
+  },
+  "market_context": {
+    "africa_dc_capacity_2026_mw": 600,
+    "africa_dc_capacity_2030_mw": 1400,
+    "nigeria_internet_users_m": 110,
+    "nigeria_population_m": 230
+  },
+  "gas_economics": {
+    "nigeria_regulated_price_usd_mmbtu": 2.18,
+    "diesel_comparison_usd_kwh": 0.3
+  }
+}

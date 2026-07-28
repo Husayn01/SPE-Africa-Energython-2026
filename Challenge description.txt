@@ -1,0 +1,241 @@
+Skip main navigation (Press Enter).
+Home
+About Us 
+Directory
+Events 
+Resources 
+SPE Asset Management Technical Section
+Energython
+A global student challenge translating energy resources, power systems, economics, reliability, and digital demand into decision-grade development concepts.
+
+2026 Theme: “Molecule to Megabyte”
+Overview North America India–APAC LAC & Mexico Europe Africa
+Energython logoSPE Asset Management Technical Section logo
+From regional editions to a global Energython community
+Energython gives students a practical challenge: integrate energy supply, power generation, project economics, environmental considerations, reliability, and bankability into concepts that can stand up to technical and commercial scrutiny.
+
+↑ Back to top
+5
+Regional editions showcased
+44
+India–APAC participating teams
+9
+LAC & Mexico participating teams
+16
+Europe participating teams
+Why Energython?
+The “Molecule to Megabyte” challenge asks students to connect the physical energy system with rapidly growing digital infrastructure demand. Teams evaluate gas supply, generation options, siting, reliability, cost, emissions, and financing logic.
+
+Energy economics
+Asset strategy
+Power reliability
+Decision quality
+Student innovation
+Core challenge framing
+Design a credible energy-to-digital-infrastructure concept that demonstrates technical feasibility, financial discipline, and clear communication for a real-world development decision.
+
+Typical deliverables: video pitch, project deck, techno-economic model, and finals presentation in a judging format designed to test both technical clarity and investment logic.
+
+14 Jan 2026
+North America Finals — Houston, United States, launched with the E3S Energy Economics & Evaluation Symposium.
+14 Mar 2026
+India–APAC Finals — ONGC Mumbai, with 44 participating teams and 7 finalist teams.
+9–10 Jun 2026
+LAC & Mexico Finals — EnergyBurros, Jauretche Power On, and NextGen Power earned the top three positions.
+July 2026
+Europe Finals — Velogas, Reservoir Dogs, and Forge were recognized as the first-, second-, and third-place teams.
+20 Sep 2026
+Africa Virtual Finals — finalist teams will present their techno-economic concepts in a Shark Tank®-style pitch.
+Regional editions
+Each Energython edition is adapted to regional student networks while keeping a common focus on practical, decision-ready energy solutions.
+
+↑ Back to top
+North America Edition
+Finals: 14 January 2026 • Houston, United States
+Completed
+The inaugural North American Energython challenged student teams to design gas-to-data-center techno-economic concepts to power a 10–20 MW data center using natural gas-fired generation, grounded in constraints such as grid queues, reliability, and bankability.
+
+Rank 1
+SynerGAS
+University of Wyoming
+North America Energython Rank 1 winner photo
+15-MW behind-the-meter plant using modular reciprocating natural gas engines with N+1 redundancy.
+
+Rank 2
+Sierra Solutions
+UT Austin
+North America Energython Rank 2 winner photo
+Investment-grade concept emphasizing speed-to-market, modular engines, flexible gas sourcing, and structured pricing.
+
+Rank 3
+Rising Stars
+Texas A&M International
+North America Energython Rank 3 winner photo
+Combined-cycle plant concept in Webb County, Texas, balancing reliability, efficiency, and reduced water use.
+
+Rank 4
+Turning Gas Into Megawatts
+Texas A&M University
+North America Energython Rank 4 winner photo
+Scalable combined-cycle system with clear sensitivity analysis on power price and incentives.
+
+India–APAC Edition
+Finals: 14 March 2026 • ONGC Mumbai
+Completed
+The India–APAC edition expanded the Energython platform across the Asia Pacific region, with 44 teams participating and 7 finalist teams advancing to the final round.
+
+Rank 1
+UPES SPE Student Chapter
+University of Petroleum and Energy Studies, Dehradun
+India APAC Energython Rank 1 winner photo
+25 MW hydrogen–natural gas hybrid power plant for data center applications.
+
+Rank 2
+Team Iron Throne
+IIT ISM Dhanbad, MIT WPU Pune, NIT Trichy
+India APAC Energython Rank 2 winner photo
+Hydrogen-blended baseload power for net-zero data centers: a scalable offshore wind integration model.
+
+Rank 3
+Gridex
+Rajiv Gandhi Institute of Petroleum Technology, Rai Bareilly
+India APAC Energython Rank 3 winner photo
+Sustainable high-availability kinetic thermodynamic infrastructure.
+
+Participation
+44 Teams
+Across India–APAC universities
+India APAC Energython event photo 1
+Participants included RGIPT Rai Bareilly, ISM Dhanbad, MIT Pune, PDEU Gandhinagar, Wadia College Pune, PNJ Indonesia, ITB Indonesia, Parul University, JNTU Kakinada, and UPES Dehradun.
+
+India–APAC flyer and event highlights
+Energython Asia Pacific flyer
+India–APAC Edition flyer
+India APAC Energython event photo 3
+India APAC Energython event photo 2
+SPE leadership and Young Professionals supported the event, reinforcing the Energython’s role in connecting student innovation with industry–academia collaboration.
+LAC & Mexico Edition
+Finals: 9–10 June 2026
+Completed
+The LAC & Mexico edition brought together nine teams from Guyana, Brazil, Venezuela, Mexico, Ecuador, and Argentina. The regional finals concluded with teams from Mexico, Argentina, and Guyana earning the top three positions.
+
+Rank 1
+EnergyBurros
+Instituto Politécnico Nacional (IPN)
+Mexico
+
+Rank 2
+Jauretche Power On
+Universidad Nacional Arturo Jauretche
+Argentina
+
+Rank 3
+NextGen Power
+University of Guyana
+Guyana
+
+Participation
+9 Teams
+Six countries represented
+Guyana, Brazil, Venezuela, Mexico, Ecuador, and Argentina.
+
+Regional flyer and winners announcement
+Energython LAC and Mexico edition flyer
+LAC & Mexico Edition flyer
+Energython LAC and Mexico 2026 winners announcement
+2026 winners: EnergyBurros, Jauretche Power On, and NextGen Power
+Participating teams
+Team	University / Organization	Country
+NextGen Power	University of Guyana	Guyana
+Energenix	University of Guyana	Guyana
+SPE USP Student Chapter Team	USP — University of São Paulo / SPE USP Student Chapter	Brazil
+Apex Energy Systems	University of Guyana	Guyana
+EnergyPower	Universidad Metropolitana	Venezuela
+EnergyBurros	Instituto Politécnico Nacional (IPN)	Mexico
+SPE UNAM	Universidad Nacional Autónoma de México	Mexico
+TEAM UCE	Central University of Ecuador	Ecuador
+Jauretche Power On	Universidad Nacional Arturo Jauretche	Argentina
+Europe Edition
+Finals: July 2026
+Completed
+The Europe edition brought together student teams and institutions from across Europe and adjacent regions under the 2026 “Molecule to Megabyte” challenge. Velogas, Reservoir Dogs, and Forge earned the top three positions.
+
+Rank 1
+Velogas
+IFP School SPE Student Chapter
+Europe champion • July 2026
+
+Rank 2
+Reservoir Dogs
+Imperial College London SPE Chapter
+Second place • July 2026
+
+Rank 3
+Forge
+Coventry University SPE Student Chapter
+Third place • July 2026
+
+Theme
+Molecule to Megabyte
+Europe • July 2026
+Connecting energy supply, power generation, economics, reliability, and digital infrastructure demand.
+
+Europe flyer and award presentation
+Energython Europe edition flyer
+Europe Edition flyer
+Europe Energython award presentation with the winning teams
+Europe Energython award presentation • July 2026
+Participating teams
+Team Celeron — Open source — Pakistan
+Reservoir Dogs — Imperial College London — United Kingdom
+DnipTo — Dnipro University of Technology + Politecnico di Torino — Ukraine + Italy
+OPR GAS — University of Bucharest — Romania
+Velogas — IFP School — France
+ENAIGi — University of Aberdeen — United Kingdom
+EV3 — RWTH Aachen University — Germany
+Energy Innovators — Heriot-Watt University — United Kingdom
+Watt Matters — Politecnico di Torino — Italy
+MUL-ti Power — Montanuniversität Leoben — Austria
+KronoGas — IFP School — France
+Gas & Glory — Istanbul Technical University — Türkiye
+Imperial Intelligence Energy — Imperial College London — United Kingdom
+Forge — Coventry University — United Kingdom
+Africa Edition
+Finals: 20 September 2026 • Virtual
+Upcoming
+The 2026 Africa Region Energython invites SPE Student Chapters to develop a decision-ready techno-economic concept for powering a 10–20 MW data center. Teams will connect fuel supply, logistics, generation technology, commercial agreements, and financial modeling, then present finalist concepts in a Shark Tank®-style virtual pitch.
+
+Eligibility and challenge scope
+Open to SPE Student Chapters in the Africa Region.
+Teams of 3–5 students, guided by a faculty advisor.
+Develop a 10–20 MW data-center power concept using a natural-gas-fired plant or another eligible fuel pathway.
+Address gas supply and logistics, transportation and off-take agreements, generation equipment, and full financial modeling.
+Eligible focus areas may include geothermal and hydrogen; nuclear and coal are excluded.
+Submission and evaluation
+Required deliverables: a 10-minute standalone video and 15–70 detailed presentation slides.
+
+Judging: Innovation 20%; Technical Rigor 25%; Financial Model 25%; Presentation 30%.
+
+Prizes: USD 2,000 for first place, USD 1,500 for second place, and USD 1,000 for third place.
+
+Sponsor: Kenyon International.
+
+Africa Edition key dates
+Date	Milestone
+11 July 2026	Registration opens
+15 July 2026	Question-and-answer session with the AMTS Chair
+31 July 2026	Registration closes
+1 August 2026	Financial training video and upload link shared with participants
+31 August 2026	Video and presentation submission deadline
+5 September 2026	Finalists announced
+20 September 2026	Virtual finals
+Africa Edition announcement
+2026 Energython Africa Region announcement flyer
+2026 Africa Region Energython • From Molecule to Megabyte
+Contact: speamtsenergython@gmail.com
+Build the next Energython edition
+AMTS welcomes regional sections, student chapters, universities, sponsors, mentors, and technical judges interested in extending Energython as a global student innovation platform.
+
+Visit AMTS Home
+© Copyright 2026 Society of Petroleum Engineers. All rights reserved.
+Powered by Higher Logic
