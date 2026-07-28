@@ -43,3 +43,6 @@ venv.bak/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Teaching Docs
+TEACHING_GUIDE.md
