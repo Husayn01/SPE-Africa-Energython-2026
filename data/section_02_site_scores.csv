@@ -1,0 +1,8 @@
+Rank,Site,Country,Latitude,Longitude,C1_Gas,C2_Fiber,C3_Grid,C4_Water,C5_Regulatory,C6_Land,C7_Hazard,C8_Demand,Composite_Score,Gas_Price_USD,Submarine_Cables
+1,"Lekki Free Zone, Lagos, Nigeria",Nigeria,6.42,3.61,9,10,7,7,9,7,6,10,0.8874616998021044,2.18,5
+2,"Ain Sokhna (SCZONE), Egypt",Egypt,29.6008,32.3152,7,9,9,7,8,8,7,8,0.7914418044360256,6.88,4
+3,"Tema Industrial Area, Ghana",Ghana,5.6315,-0.0174,7,8,8,8,8,7,8,7,0.7493602165262179,5.5,3
+4,"Ewekoro/Sagamu, Ogun State, Nigeria",Nigeria,6.9,3.22,8,6,5,7,6,9,8,7,0.6981480829420768,2.18,0
+5,"Beluluane Industrial Park, Mozambique",Mozambique,-26.17,32.39,7,6,6,6,7,9,5,5,0.6416778482898233,2.5,3
+6,"Naivasha SEZ, Kenya",Kenya,-0.72,36.43,3,7,7,8,8,8,5,6,0.5888838552082961,8.0,3
+7,"Kribi Deep Seaport, Cameroon",Cameroon,2.937,9.907,6,5,5,7,5,8,7,4,0.5498195425640208,4.0,2
