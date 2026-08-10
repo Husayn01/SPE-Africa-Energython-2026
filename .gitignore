@@ -46,3 +46,7 @@ Thumbs.db
 
 # Teaching Docs
 TEACHING_GUIDE.md
+
+# Project specific
+.trae/
+Video Content/

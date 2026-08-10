@@ -1,0 +1,69 @@
+{
+  "team": "Artemis",
+  "source_notebook": "00_project_framing",
+  "generated_at_utc": "2026-08-10T05:43:23.114902+00:00",
+  "facts": [
+    {
+      "id": "F01",
+      "fact": "Nigeria Tax Act 2025 effective 1 Jan 2026: 30% CIT plus 4% Development Levy.",
+      "source": "Nigeria Tax Act No.7 of 2025; Streamsowers and Kohn 2026."
+    },
+    {
+      "id": "F02",
+      "fact": "Lekki FZE pioneer status: 0% CIT 5 yr renewable plus 3 yr; duty-free cap imports; unrestricted profit repatriation.",
+      "source": "NEPZA / OGFZA; Streamsowers and Kohn 2026."
+    },
+    {
+      "id": "F03",
+      "fact": "ELPS 439 km, 36-inch Escravos to Warri to Egbin to Lagos, 800 MMscf/d at 70-85 barg.",
+      "source": "ELPS public specification; NNPC 2025 operations review."
+    },
+    {
+      "id": "F04",
+      "fact": "Jenbacher J624 50 Hz: 4,400-4,499 kW elec, 47% max eff, 4,058-4,400 kW thermal, exhaust 440-450 C at 7.2 kg/s, MTBO 60-80k hr.",
+      "source": "INNIO Jenbacher J624 jenbacher.us; KTS Engineering 2025."
+    },
+    {
+      "id": "F05",
+      "fact": "LiBr double-effect exhaust-fired COP 1.30-1.42; base-design COP 1.35.",
+      "source": "US DOE Better Buildings CHP Absorption Fact Sheet Table 2; Thermax; YORK YHAU-CG."
+    },
+    {
+      "id": "F06",
+      "fact": "ELPS typical gas molar composition percent: Methane 86, Ethane 6, Propane 3, iButane 0.8, nButane 1.2, C5+ 1.7, Nitrogen 0.7, CO2 4.2, H2S < 4 ppm. Derived Wobbe approx 49 MJ/m3; Methane Number approx 80.",
+      "source": "NNPC / PTDF IJOER Vol 5 Issue 8 2019 Table 2; Trans-Nigeria Gas Pipeline design basis."
+    }
+  ],
+  "assumptions": [
+    {
+      "id": "A01",
+      "assumption": "Gas USD 3.20/MMBtu Escravos city-gate plus 2.5% real per annum escalation.",
+      "validation": "Notebook 03 Gas contracting plus Notebook 07a sensitivity plus and minus 30% plus Notebook 07b Monte Carlo."
+    },
+    {
+      "id": "A02",
+      "assumption": "Anchor tariff USD 110/kW-month Year 1 times 3% nominal times 15-yr take-or-pay. Sub-tenant fill 5 MW Year 6 at USD 130/kW-month.",
+      "validation": "Notebook 01 Market and Demand plus Notebook 07a tariff elasticity."
+    },
+    {
+      "id": "A03",
+      "assumption": "Total capex approx USD 1,950/kW IT inclusive of 8% project contingency.",
+      "validation": "Notebook 05 Facility design plus Notebook 06 CAPEX line-by-line build-up."
+    },
+    {
+      "id": "A04",
+      "assumption": "Capital stack: Senior 70% at 9% x 12-yr amort; Mezzanine 5% at 15%; Preferred 5% at 10%; Sponsor Common 20%. DSCR minimum covenant 1.25x; 1.40x mandatory cash sweep trigger.",
+      "validation": "Notebook 07 Financial Model."
+    },
+    {
+      "id": "A05",
+      "assumption": "Mechanical Completion Month 24; handover Month 25; ramp-up 80/90/100% in first three operating quarters.",
+      "validation": "Notebook 08a earned value and controls."
+    },
+    {
+      "id": "A06",
+      "assumption": "FX Naira 1,650 per USD Year 1; 4% per annum depreciation. Revenue contracts USD-denominated paid into FZE offshore collection account. Local OPEX is 15% of total.",
+      "validation": "Notebook 07b Monte Carlo FX plus-40% shock."
+    }
+  ]
+}

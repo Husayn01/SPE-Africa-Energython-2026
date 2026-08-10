@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "lekki_ftz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lekki FTZ" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.98, 6.43 ], [ 3.98, 6.58 ], [ 3.82, 6.58 ], [ 3.82, 6.43 ], [ 3.98, 6.43 ] ] ] } }
+]
+}
