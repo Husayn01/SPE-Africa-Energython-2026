@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "elps_pipeline",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "name": "ELPS spur" }, "geometry": { "type": "LineString", "coordinates": [ [ 3.8, 6.63 ], [ 3.82, 6.57 ], [ 3.84, 6.52 ], [ 3.86, 6.47 ], [ 3.89, 6.43 ] ] } }
-]
-}

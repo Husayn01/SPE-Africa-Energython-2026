@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "water_bodies",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "name": "Atlantic" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.7, 6.3 ], [ 3.84, 6.3 ], [ 3.86, 6.38 ], [ 3.7, 6.38 ], [ 3.7, 6.3 ] ] ] } },
-{ "type": "Feature", "properties": { "name": "Lekki Lagoon" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.77, 6.4 ], [ 3.96, 6.42 ], [ 4.03, 6.47 ], [ 3.97, 6.53 ], [ 3.83, 6.52 ], [ 3.75, 6.45 ], [ 3.77, 6.4 ] ] ] } }
-]
-}
