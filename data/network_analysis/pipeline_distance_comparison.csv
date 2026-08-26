@@ -1,0 +1,4 @@
+Location_ID,Name,Primary_1,Oredo_Road_km,Oredo_Straight_km,Primary_2,Sapele_Road_km,Sapele_Straight_km,Backup,Oben_Road_km,Oben_Straight_km,Primary_Pipeline_Road_km,Primary_Pipeline_Straight_km,Primary_Pipeline_Route_Factor_1.3_km
+1,Location 1,Oredo,11.3,9.0,Sapele,61.2,15.7,Oben,61.3,38.9,72.5,24.7,32.1
+2,Location 2,Oredo,4.9,2.4,Sapele,49.3,17.2,Oben,49.4,29.1,54.3,19.6,25.5
+3,Location 3,Oredo,27.7,5.9,Sapele,45.7,12.0,Oben,45.8,30.5,73.4,18.0,23.4

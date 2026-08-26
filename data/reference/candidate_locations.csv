@@ -1,0 +1,4 @@
+Location_ID,Name,Latitude,Longitude,Area_sqkm,Description
+1,Location 1,6.0271338,5.5149733,0.75,Western position; closest to Oredo flare
+2,Location 2,6.0557397,5.6070178,0.75,Northeastern position; nearest to road network and Benin City
+3,Location 3,6.0083613,5.5927196,1.5,Largest contiguous area; southern position with strongest suitability scores

@@ -1,0 +1,8 @@
+Name,Type,Latitude,Longitude,Notes,Data_Status,Use_In_Model,Source_URL
+Egbin Power Plant (ELPS Gas Node),Power Plant / Gas Hub,6.5633,3.6152,Point proxy only; verify actual ELPS connection and pressure with gas supplier,Approximate,Gas proximity screening only,https://nnpcgroup.com/insights/press-release-nnpc-limited-restores-escravos-lagos-pipeline
+MDXi Lekki Data Center (MainOne),Data Center / Landing Station,6.4353,3.4838,Approximate location; use for connectivity context rather than customer commitment,Approximate,Fiber and demand context only,https://www.equinix.com/data-centers/africa-colocation/nigeria-data-centers/lagos-data-center
+OADC Lagos (Equiano),Data Center / Landing Station,6.4250,3.4350,Approximate location; confirm current campus coordinates and capacity,Approximate,Fiber and demand context only,https://openaccessdc.net/
+Rack Centre,Data Center,6.5975,3.3731,Approximate Lagos location; confirm site coordinates before final map,Approximate,Demand context only,https://rack-centre.com/
+WACS Landing Area,Cable Landing Station,6.4255,3.6397,Approximate cable landing proxy; verify route diversity with operators,Approximate,Fiber proximity screening only,https://www.mainone.net/
+2Africa Landing (Bayobab),Cable Landing Station,6.4172,3.7122,Approximate landing proxy; verify route diversity with operator,Approximate,Fiber proximity screening only,https://www.bayobab.africa/
+Lekki Free Trade Zone (Proposed Site Area),Industrial Zone,6.4330,3.9000,General area proxy; not a surveyed parcel or confirmed plant site,Approximate,Site context only,https://lekkiport.com/
